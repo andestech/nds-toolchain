@@ -1,3 +1,3 @@
 # AndesCore GNU Compiler Toolchain
 
-This is the Andes V3 C and C++ cross-compiler.
+This is the Andes C and C++ cross-compiler.
